@@ -1,5 +1,48 @@
 .name {
+    font-family: 'Times New Roman', Times, serif;
+    size: 0ch;
    color: black;
-   padding: 0%;
+   padding: 0;
+   margin: 0;
+   font-style: bold;
+
+}
+.direction {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0%;
+   margin: 0;
+   size: 0ch;
+   color: black;
+   background-color: lightyellow;
    
+
+}
+.direction:hover {
+    color: red;
+    background-color: yellow;
+}
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0%;
+   margin: 0;
+   size: 0ch;
+   color: black;
+   
+
+   
+}
+.HARPAGON {
+    color: green;
+    padding: 0%;
+   margin: 0;
+}
+.ÉLISE {
+    color: blue ;
+    padding: 0%;
+   margin: 0;
+}
+.CLÉANTE {
+    color:brown;
+    padding: 0%;
+   margin: 0;
 }
